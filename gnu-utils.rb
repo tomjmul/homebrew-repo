@@ -12,6 +12,7 @@ class GnuUtils < Formula
   depends_on 'gnu-indent' => 'default-names'
   depends_on 'gnu-sed' => 'default-names'
   depends_on 'gnu-tar' => 'default-names'
+  depends_on 'gnu-getopt' => 'default-names'
   depends_on 'gnu-which' => 'default-names'
   depends_on 'grep' => 'default-names'
   depends_on 'gzip'
